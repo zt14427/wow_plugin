@@ -1,0 +1,7 @@
+## Interface: 11306
+## Title: Leno
+## Notes: This is a shitpost addon
+## Author: trevor
+## Version: 1.0
+
+Leno.lua 
